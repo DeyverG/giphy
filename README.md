@@ -17,4 +17,4 @@ Este proyecto fue creado para entender el funcionamiento de LazyLoad y custom Ho
   * Ant Design
 
 ## Link del Proyecto desplegado en Vercel
-https://giphy-alpha-weld.vercel.app/
+https://giphy-git-staging-deyverg.vercel.app/
