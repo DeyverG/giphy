@@ -10,6 +10,8 @@ Este proyecto fue creado para entender el funcionamiento de LazyLoad y custom Ho
 
 ## Librerias Instaladas
   * Axios
+  * React Router Dom v6
+  * Lazy Load Images (react-lazy-load-image-component)
 
 ## Famework UI
   * Ant Design
